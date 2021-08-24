@@ -1,0 +1,18 @@
+{
+    "name": "ssgroup/apimanager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ssgroup\\ApiManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "santosh dheke",
+            "email": "santoshdheke46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
